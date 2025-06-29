@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "Carga de entorno",
+      "status": "pendiente"
+    },
+    {
+      "name": "Prueba de conexi\u00f3n",
+      "status": "pendiente"
+    }
+  ]
+}
